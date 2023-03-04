@@ -10,6 +10,7 @@ This information can be used by the business in each and every loan takers portf
 
 ## Table of Contents
 * [General Info](#general-information)
+* [Data Processing](#data-processing)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
@@ -21,6 +22,12 @@ This information can be used by the business in each and every loan takers portf
 - What is the background of your project?
 - What is the business probem that your project is trying to solve?
 - What is the dataset that is being used?
+
+## Data Processing
+- Data Sourcing
+- Data Cleaning
+- Data Analysis
+- Result 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
