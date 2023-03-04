@@ -1,5 +1,11 @@
 # Lending Club Case Study
-> Outline a brief description of your project.
+ The main cause of financial loss is giving loans to "risky" borrowers (called credit loss). When a borrower defaults on a loan or flees with the money owing, the lender suffers a financial loss known as a credit loss.
+
+The major goal is to be able to identify these risky loan applicants so that the amount of credit loss can be decreased by reducing such loans.
+The objective of this case study is to identify such applications using EDA.
+
+Analyze the variables that are reliable indicators of default in order to comprehend the driving forces (or driver variables) behind loan default.
+This information can be used by the business in each and every loan takers portfolio management and risk analysis.
 
 
 ## Table of Contents
