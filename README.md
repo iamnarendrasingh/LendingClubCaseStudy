@@ -28,9 +28,14 @@
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Python3
+- Google Colab
+- numpy - 1.22.4
+- pandas - 1.3.5
+- missingno - 0.5.2
+- seaborn - 0.11.2
+- matplotlib - 3.5.3
+
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
@@ -42,7 +47,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@iamnarendrasingh] & - feel free to contact me!
 
 
 <!-- Optional -->
