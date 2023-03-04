@@ -55,9 +55,11 @@ This information can be used by the business in each and every loan takers portf
 ## Acknowledgements
 Give credit here.
 - This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
+- https://stackoverflow.com/
+- https://www.google.com/
+- https://www.danielmsullivan.com/pages/tutorial_stata_to_python.html
+- https://www.w3schools.com/python/numpy/default.asp
+- https://www.w3schools.com/python/pandas/default.asp
 
 ## Contact
 Created by [@iamnarendrasingh] & - feel free to contact me!
