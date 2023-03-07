@@ -55,8 +55,7 @@ Created by [@iamnarendrasingh] & [@chintan4560] - feel free to contact us!
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
+
 - https://stackoverflow.com/
 - https://www.google.com/
 - https://www.danielmsullivan.com/pages/tutorial_stata_to_python.html
