@@ -24,9 +24,6 @@ Created by [@iamnarendrasingh] & [@chintan4560] - feel free to contact us!
 - The company aims to use exploratory data analysis to identify strong indicators of default, which can then be used for portfolio and risk assessment purposes.
 
 ## Data Processing
-- Problem Statement 
-- Study Objective
-- Data Processing
 - Data Preparation
 - Correlation Matrix 
 - Data Analysis : Bivariate
